@@ -1,1 +1,1 @@
-# JAvascript Registration App
+# Javascript Registration App
